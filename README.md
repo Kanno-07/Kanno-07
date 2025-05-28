@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
 
-- 🔭 I’m currently working on **Task Dashboard**
+- 🔭 I’m currently working on **Image Data Hiding Using Watermarking Technique**
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **kanishka.j2003@gmail.com**
 
